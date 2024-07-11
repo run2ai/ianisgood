@@ -1,4 +1,4 @@
-package com.cosign.apple.inapp.presentation.controller.migration;
+package w2;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -122,4 +122,3 @@ public class DNA_비밀번호_s2_12891 {
         }
     }
 }
-
