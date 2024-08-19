@@ -3,12 +3,11 @@ package w6;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Arrays;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.StringTokenizer;
 
-public class 미로 탐색_s1_2178 {
+public class 미로_탐색_s1_2178 {
 
     static Queue<int[]> q;
     static int[][] arr;
